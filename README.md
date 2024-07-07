@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # — RÈGLEMENT FLORIDA RP —
 
 &#x20;                                                               ![](.gitbook/assets/0.png)
